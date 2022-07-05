@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning smart contracts for blockchain, machine learning model training and developing a full stack project using JS and NodeJs.
 - 💞️ I’m looking to collaborate on a full stack project and/or AI/ML projects
 - 📫 How to reach me : www.linkedin.com/in/sahityaratan08
+LeetCode: https://leetcode.com/ratan08/
 
 <!---
 sahitya008/sahitya008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
